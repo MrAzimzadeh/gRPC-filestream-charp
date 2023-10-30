@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\azimz\\OneDrive\\Desktop\\gRPC_filestream\\grpcServer\\wwwroot\\files\\WhatsApp Video 2023-10-30 at 12.27.21_97bc64c7.mp4",
+      "PackagePath": "staticwebassets\\files\\WhatsApp Video 2023-10-30 at 12.27.21_97bc64c7.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.grpcServer.props",
+      "PackagePath": "build\\grpcServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.grpcServer.props",
+      "PackagePath": "buildMultiTargeting\\grpcServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.grpcServer.props",
+      "PackagePath": "buildTransitive\\grpcServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.grpcServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

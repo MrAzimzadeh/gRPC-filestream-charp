@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "UHTOYj7n2wikFLHLX+g/7GxzFIsRhBZmR7lvDX6qFBI=",
+  "Source": "grpcServer",
+  "BasePath": "_content/grpcServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "grpcServer\\wwwroot",
+      "Source": "grpcServer",
+      "ContentRoot": "C:\\Users\\azimz\\OneDrive\\Desktop\\gRPC_filestream\\grpcServer\\wwwroot\\",
+      "BasePath": "_content/grpcServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\azimz\\OneDrive\\Desktop\\gRPC_filestream\\grpcServer\\wwwroot\\files\\WhatsApp Video 2023-10-30 at 12.27.21_97bc64c7.mp4",
+      "SourceId": "grpcServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\azimz\\OneDrive\\Desktop\\gRPC_filestream\\grpcServer\\wwwroot\\",
+      "BasePath": "_content/grpcServer",
+      "RelativePath": "files/WhatsApp Video 2023-10-30 at 12.27.21_97bc64c7.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\WhatsApp Video 2023-10-30 at 12.27.21_97bc64c7.mp4"
+    }
+  ]
+}
